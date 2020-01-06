@@ -18,5 +18,6 @@
 </head>
 <body>
     <h1>New Project</h1>
+    <h2>Today is a new day</h2>
 </body>
 </html>
